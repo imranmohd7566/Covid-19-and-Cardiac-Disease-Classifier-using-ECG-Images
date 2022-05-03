@@ -16,3 +16,4 @@ As it can be seen in the below figures that the custom model has given the accur
 The very first point of consideration when thinking about ways to connect an ML model to a mobile app is to create an API that acts as a middle layer between the frontend (App) and the backend (ML model). However, we have adopted an innovative approach of directly integrating the ML model with the android app using the "tflite (TensorFlow lite) model import" feature available in the latest Android Studio 4.1.
 ![image](https://user-images.githubusercontent.com/50734928/166563710-90bcffbb-12bf-46e9-9ca4-4a64d4f64c6b.png)
 
+Note: Dataset can be found at https://drive.google.com/drive/folders/14ngeAPpoukv4acQg2RMzB3tutN1kZRPD?usp=sharing.
