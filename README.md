@@ -17,4 +17,4 @@ The very first point of consideration when thinking about ways to connect an ML 
 
 ![image](https://user-images.githubusercontent.com/50734928/166563710-90bcffbb-12bf-46e9-9ca4-4a64d4f64c6b.png)
 
-Note: Dataset can be found at https://drive.google.com/drive/folders/1HVTWX2F3OjMA151FSNkGGbukC1sL4sJq?usp=sharing.
+Note: Dataset & model in h5 format can be found at https://drive.google.com/drive/folders/1HVTWX2F3OjMA151FSNkGGbukC1sL4sJq?usp=sharing.
